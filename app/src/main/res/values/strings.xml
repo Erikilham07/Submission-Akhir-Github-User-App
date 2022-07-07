@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SearchGithubUser</string>
+    <string name="search">search</string>
+    <string name="search_hint">Masukkan kata</string>
+    <string name="result_main">Total result : %d data</string>
+    <string name="tv_name">name</string>
+    <string name="avatar">avatar</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="Repository">%d Repository</string>
+    <string name="app_name2">DetailGithubUser</string>
+    <string name="app_name3">Favourite User</string>
+    <string name="tab_text_1">%d Followers</string>
+    <string name="tab_text_2">%d Following</string>
+    <string name="avatar_1">Avatar</string>
+    <string name="favorite">favorite</string>
+    <string name="setting">setting</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="tv_favourite">favourite</string>
+    <string name="share">github.com/%s</string>
+
+</resources>
